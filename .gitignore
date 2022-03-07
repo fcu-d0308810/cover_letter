@@ -1,0 +1,12 @@
+.DS_Store
+.Python
+.idea/
+.vscode/
+*.pyc
+tmp.*
+__pycache__
+tmp/
+supervisord.pid
+*log
+**test**
+*.exe
